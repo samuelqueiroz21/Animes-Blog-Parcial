@@ -12,3 +12,7 @@ Avaliação parcial de Desenvolvimento de Aplicativos Mobile
   
 </div>
 
+<h3>✦ O app é dividido em três versões diferentes</h3>
+<p>-> Versão IOS: https://snack.expo.dev/@queiroznnn/animes-blog?platform=ios</p>
+<p>-> Versão Android:</p>
+<p>-> Versão Web:</p>
