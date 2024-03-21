@@ -16,3 +16,5 @@ Avaliação parcial de Desenvolvimento de Aplicativos Mobile
 <p>-> Versão IOS: https://snack.expo.dev/@queiroznnn/animes-blog?platform=ios</p>
 <p>-> Versão Android: https://snack.expo.dev/@queiroznnn/animes-blog-android</p>
 <p>-> Versão Web: https://snack.expo.dev/@queiroznnn/animes-blog-web</p>
+
+<h2> É recomendado à utilização/visualização do aplicativo por IOS!!</h2>
