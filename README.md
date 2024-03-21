@@ -18,3 +18,9 @@ Avaliação parcial de Desenvolvimento de Aplicativos Mobile
 <p>-> Versão Web: https://snack.expo.dev/@queiroznnn/animes-blog-web</p>
 
 <h2> É recomendado à utilização/visualização do aplicativo por IOS!!</h2>
+
+<div align="center">
+  
+  ![naruto](https://github.com/samuelqueiroz21/Animes-Blog-Parcial/assets/128627088/9aadaa99-d0bd-4ff8-80ae-d604c7eb9f88)
+  
+</div>
