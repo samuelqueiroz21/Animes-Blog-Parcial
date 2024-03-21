@@ -6,5 +6,5 @@ Avaliação parcial de Desenvolvimento de Aplicativos Mobile
 <p>-> Mostrar curiosidades e coisas novas dos animes.</p>
 
 <h3>✦ Protótipo da aplicação</h3>
-![Design-Animes](https://github.com/samuelqueiroz21/Animes-Blog-Parcial/assets/128627088/31388f32-587c-4b82-b120-63f2360f56f9)
+
 
