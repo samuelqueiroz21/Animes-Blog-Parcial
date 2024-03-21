@@ -7,4 +7,6 @@ Avaliação parcial de Desenvolvimento de Aplicativos Mobile
 
 <h3>✦ Protótipo da aplicação</h3>
 
+![Design-Animes](https://github.com/samuelqueiroz21/Animes-Blog-Parcial/assets/128627088/60ddce5b-e0bf-4b65-8c0f-7268b45ebf10)
+
 
